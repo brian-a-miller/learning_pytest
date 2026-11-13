@@ -1,3 +1,3 @@
-# learning_python
+# learning_pytest
 
 Learning to use PyTest with examples
